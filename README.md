@@ -1,0 +1,10 @@
+rm -rf ENCRYPTPYCJANAN
+
+
+git clone https://github.com/KngJANAN404/ENCRYPTPYCJANAN
+
+
+cd ENCRYPTPYCJANAN
+
+
+python ENCRYPTPYCJANAN.pyc
